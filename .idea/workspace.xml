@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd88d6cc-bb45-4dea-ae51-fd66593f1fc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oqmehnOK5E3JaKg6LPrX2jaxVK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.test_bs4_2">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="antimamba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Developer\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="antimamba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpy_scipy_pandas_test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="antimamba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_scipy_pandas_test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bs4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="antimamba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_bs4_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_selenium1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="antimamba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_selenium1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.test_bs4_2" />
+      <item itemvalue="Python.test_selenium1" />
+      <item itemvalue="Python.numpy_scipy_pandas_test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_bs4_2" />
+        <item itemvalue="Python.numpy_scipy_pandas_test1" />
+        <item itemvalue="Python.test_selenium1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd88d6cc-bb45-4dea-ae51-fd66593f1fc6" name="Default Changelist" comment="" />
+      <created>1614022591539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614022591539</updated>
+      <workItem from="1614405185823" duration="65000" />
+      <workItem from="1620065784472" duration="1044000" />
+      <workItem from="1620300177214" duration="2012000" />
+      <workItem from="1620583144149" duration="36000" />
+      <workItem from="1620656579286" duration="699000" />
+      <workItem from="1620850337480" duration="765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614022644604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="179" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614022644604" />
+    <state x="453" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614022640894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="453" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614022640894" />
+    <state x="671" y="279" key="FileChooserDialogImpl" timestamp="1620583148695">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="503" y="209" key="FileChooserDialogImpl/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614022616173" />
+    <state x="671" y="279" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1920.1200@0.0.1920.1200" timestamp="1620583148695" />
+    <state width="1878" height="332" key="GridCell.Tab.0.bottom" timestamp="1620583179560">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1362" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614408177685" />
+    <state width="1878" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1920.1200@0.0.1920.1200" timestamp="1620583179560" />
+    <state width="1878" height="332" key="GridCell.Tab.0.center" timestamp="1620583179560">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1362" height="219" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614408177685" />
+    <state width="1878" height="332" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1920.1200@0.0.1920.1200" timestamp="1620583179560" />
+    <state width="1878" height="332" key="GridCell.Tab.0.left" timestamp="1620583179559">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1362" height="219" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614408177685" />
+    <state width="1878" height="332" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1920.1200@0.0.1920.1200" timestamp="1620583179559" />
+    <state width="1878" height="332" key="GridCell.Tab.0.right" timestamp="1620583179560">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1362" height="219" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614408177685" />
+    <state width="1878" height="332" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1920.1200@0.0.1920.1200" timestamp="1620583179560" />
+    <state x="297" y="127" key="SettingsEditor" timestamp="1620851098330">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="223" y="95" key="SettingsEditor/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614408159498" />
+    <state x="297" y="127" key="SettingsEditor/0.0.1920.1200/1920.0.1920.1200@0.0.1920.1200" timestamp="1620851098330" />
+    <state x="421" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1614408070123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="273" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1440.900@0.0.1440.900" timestamp="1614408070123" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/antimamba$test_selenium1.coverage" NAME="test_selenium1 Coverage Results" MODIFIED="1620066220523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/antimamba$test_bs4_2.coverage" NAME="test_bs4_2 Coverage Results" MODIFIED="1620583165061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
